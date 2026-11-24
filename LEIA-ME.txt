@@ -1,0 +1,4 @@
+PUC Minas RoboChallenge 2027 — proposta de site
+
+Abra index.html em um navegador. Mantenha a pasta assets ao lado do HTML.
+Antes da publicação, confirme modalidades, regulamentos, critérios de participação, links de inscrição, local e programação detalhada. A data 03/04/2027, das 8h às 17h, e a previsão de dois laboratórios para RoboCode e IA foram incluídas conforme o planejamento.
